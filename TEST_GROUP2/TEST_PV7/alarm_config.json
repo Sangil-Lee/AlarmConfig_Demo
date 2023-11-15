@@ -1,0 +1,9 @@
+{
+  "user" : "ctrluser",
+  "host" : "Debian11VM",
+  "description" : "TEST:PV7",
+  "guidance" : [ {
+    "title" : "Proc1",
+    "details" : "Test:PV7 Action"
+  } ]
+}
